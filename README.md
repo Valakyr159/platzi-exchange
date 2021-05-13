@@ -1,6 +1,6 @@
 # platzi-exchange
 
-## [Project hosted on netfily](https://exchange-valakyr.netlify.app)
+## [Visit the project hosted on netfily](https://exchange-valakyr.netlify.app)
 
 ## Project setup
 ```
